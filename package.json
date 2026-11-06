@@ -1,0 +1,12 @@
+{
+  "name": "coolcat-daily-load-report",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cool Cat Plant Services — Daily Load Report (interactive prototype: not invoiced, no picture, no weight)",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
